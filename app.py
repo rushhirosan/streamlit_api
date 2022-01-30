@@ -1,7 +1,7 @@
-import youtubedata_app
-import googletrend_app
-import tweepy_app
-import spotipy_app
+from apps import youtubedata_app
+from apps import googletrend_app
+from apps import tweepy_app
+from apps import spotipy_app
 import streamlit as st
 
 # Static pages
